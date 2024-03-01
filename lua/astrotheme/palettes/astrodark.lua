@@ -9,14 +9,14 @@ local c = {
 --------------------------------
 --- Syntax
 --------------------------------
-c.syntax.red = "#FF838B"
-c.syntax.orange = "#F5983A"
-c.syntax.yellow = "#DFAB25"
-c.syntax.green = "#87C05F"
-c.syntax.cyan = "#4AC2B8"
-c.syntax.blue = "#5EB7FF"
-c.syntax.purple = "#DD97F1"
-c.syntax.text = "#ADB0BB"
+c.syntax.red = "#F07178"
+c.syntax.orange = "#C3E88D"
+c.syntax.yellow = "#FFCB6B"
+c.syntax.green = "#82AAFF"
+c.syntax.cyan = "#C792EA"
+c.syntax.blue = "#89DDFF"
+c.syntax.purple = "#EEFFFF"
+c.syntax.text = "#c0adcb"
 c.syntax.comment = "#696C76"
 c.syntax.mute = "#595C66"
 
